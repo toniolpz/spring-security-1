@@ -1,0 +1,1 @@
+Proyecto básico para configurar seguridad en Spring MVC
