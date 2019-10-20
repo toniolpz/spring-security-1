@@ -1,0 +1,5 @@
+# Ignore bin and compiled classes
+/bin
+
+# Ignore vsCode files
+.vscode
